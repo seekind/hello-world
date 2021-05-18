@@ -1,2 +1,3 @@
 # hello-world
-Jst for the user guide
+Just for the user guide
+Hi, I am seekind!
